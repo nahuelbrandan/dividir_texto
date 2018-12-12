@@ -16,7 +16,7 @@ def justify(text, width):
     words = text.split() # List of total words.
     line = []  # List of words in current line.
     col = 0  # Starting column of next word added to line.
-    for word in words:
+    for word in words:  
         if line and col + len(word) > width:
             # caso en que hay una sola palabra en la linea.
             if len(line) == 1:

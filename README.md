@@ -1,9 +1,5 @@
 # Justificar texto
 
-## Autor 
-
-nahuel brandan. nahuelbrandan123@gmail.com
-
 ## Descripción
 
 **Entrada:** un texto y un numero entero 'n'.
@@ -29,3 +25,9 @@ nahuel brandan. nahuelbrandan123@gmail.com
         "example  of text",
         "justification.  "
     ]
+    
+# Ejecución
+
+Simplemente situados en el directorio realizar: *python justificar_texto.py*
+
+Te va a pedir por pantalla que le pases los parámetros.
