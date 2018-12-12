@@ -1,4 +1,4 @@
-# Dividir texto
+# Justificar texto
 
 ## Autor 
 
@@ -14,4 +14,18 @@ nahuel brandan. nahuelbrandan123@gmail.com
 
 * Espacios balanceados.
 
-*
+* La última linea sin justificar.
+
+* Podemos suponer que no va a haber una palabra más grande que n.
+
+**Ejemplo:**
+
+    Input:
+    words = ["This", "is", "an", "example", "of", "text", "justification."]
+    maxWidth = 16
+    Output:
+    [
+        "This    is    an",
+        "example  of text",
+        "justification.  "
+    ]
